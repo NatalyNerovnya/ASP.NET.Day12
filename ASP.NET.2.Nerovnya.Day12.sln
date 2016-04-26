@@ -1,0 +1,40 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 14
+VisualStudioVersion = 14.0.24720.0
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Timer", "Timer\Timer.csproj", "{69AC3812-0EEF-4566-BD94-8AD5DB711029}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "TimerConsoleUI", "TimerConsoleUI\TimerConsoleUI.csproj", "{53B601E6-AC8F-4D91-BF34-BDA3053DFD7C}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "FibonachiNumbers", "FibonachiNumbers\FibonachiNumbers.csproj", "{646CDEB5-EF82-4E03-A3A6-6AE97872DFF3}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "FibonachiNUnitTests", "FibonachiNUnitTests\FibonachiNUnitTests.csproj", "{F6A5807D-DF4A-4834-9BEB-9E0A23C8FF9E}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{69AC3812-0EEF-4566-BD94-8AD5DB711029}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{69AC3812-0EEF-4566-BD94-8AD5DB711029}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{69AC3812-0EEF-4566-BD94-8AD5DB711029}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{69AC3812-0EEF-4566-BD94-8AD5DB711029}.Release|Any CPU.Build.0 = Release|Any CPU
+		{53B601E6-AC8F-4D91-BF34-BDA3053DFD7C}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{53B601E6-AC8F-4D91-BF34-BDA3053DFD7C}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{53B601E6-AC8F-4D91-BF34-BDA3053DFD7C}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{53B601E6-AC8F-4D91-BF34-BDA3053DFD7C}.Release|Any CPU.Build.0 = Release|Any CPU
+		{646CDEB5-EF82-4E03-A3A6-6AE97872DFF3}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{646CDEB5-EF82-4E03-A3A6-6AE97872DFF3}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{646CDEB5-EF82-4E03-A3A6-6AE97872DFF3}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{646CDEB5-EF82-4E03-A3A6-6AE97872DFF3}.Release|Any CPU.Build.0 = Release|Any CPU
+		{F6A5807D-DF4A-4834-9BEB-9E0A23C8FF9E}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{F6A5807D-DF4A-4834-9BEB-9E0A23C8FF9E}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{F6A5807D-DF4A-4834-9BEB-9E0A23C8FF9E}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{F6A5807D-DF4A-4834-9BEB-9E0A23C8FF9E}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+EndGlobal
